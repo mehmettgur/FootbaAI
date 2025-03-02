@@ -1,7 +1,6 @@
-# FootbaAI - # UNDER DEVELOPMENT
+# FootbaAI - UNDER DEVELOPMENT
  
-
-# Football Video Analysis and Data Extraction Project
+**Football Video Analysis and Data Extraction Project**
 
 ## Project Purpose
 
