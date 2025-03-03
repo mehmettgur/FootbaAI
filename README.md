@@ -24,7 +24,7 @@ This project is designed to extract and analyze player data from football match 
 - **Team Classification:**  
   Visual features are extracted with a pre-trained SiglipVisionModel, reduced in dimension via UMAP, and then clustered using KMeans to classify players by team.
 
-![image](https://github.com/user-attachments/assets/bb2b959a-53b2-4ea1-9f56-83d8b9ccfe2d)
+![image](https://github.com/user-attachments/assets/8c5838fb-b1de-40de-8cc8-8f112f524186)
 
 - **Image Transformation and Pitch Calibration:**  
   The project calculates a homography matrix to transform camera coordinates into real-world pitch coordinates, ensuring accurate measurement-based analyses.
