@@ -16,10 +16,13 @@ This project is designed to extract and analyze player data from football match 
   
 ![image](https://github.com/user-attachments/assets/cf61fd89-e792-42e6-be09-972d60ce9c7e)
 
+![image](https://github.com/user-attachments/assets/af8ae214-926d-4b7b-bea4-cb5a2abeb595)
+
+
 - **Movement Tracking and Analysis:**  
   Using Kalman filters and ByteTrack algorithms, the system tracks player and ball movements, calculating instantaneous speed, movement direction, and cumulative distance.
 
-![image](https://github.com/user-attachments/assets/ab1bed05-4059-4f11-9292-cd54e77c7292)
+![image](https://github.com/user-attachments/assets/cbf80416-76a9-4449-9134-f8cd569fa00c)
 
 - **Team Classification:**  
   Visual features are extracted with a pre-trained SiglipVisionModel, reduced in dimension via UMAP, and then clustered using KMeans to classify players by team.
