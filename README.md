@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/fa670e68-68e6-417b-aacb-4d74861f2770)# FootbaAI - UNDER DEVELOPMENT
+# FootbaAI - UNDER DEVELOPMENT
  
 **Football Video Analysis and Data Extraction Project**
 
@@ -14,7 +14,8 @@ This project is designed to extract and analyze player data from football match 
 - **Player and Ball Detection:**  
   YOLO-based models detect players, the ball, goalkeepers, and referees within the video frames.
   
-![image](https://github.com/user-attachments/assets/cf61fd89-e792-42e6-be09-972d60ce9c7e)
+![image](https://github.com/user-attachments/assets/a8c8a14a-a45b-4757-96c1-b5f538a3055d)
+
 
 ![image](https://github.com/user-attachments/assets/82d3eb00-cbe4-4e36-8505-6ad57d3d5bb2)
 
